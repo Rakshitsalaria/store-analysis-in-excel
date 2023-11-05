@@ -1,0 +1,10 @@
+Question to be answered for Vridyan buisness problems.
+
+1) compare the sale and orders using single chart.
+2) Which month got the highest sales and orders/
+3) who purchased more men and women in 2022?
+4) What are the differmet orders status in 2022?
+5) List top 5 states contributing to sales in 2022?
+6) Relation between age and gender based on numbers?
+7) which channel is contributing to the maximum sales?
+8) Highest selling category?
