@@ -8,3 +8,4 @@ Question to be answered for Vridyan buisness problems.
 6) Relation between age and gender based on numbers?
 7) which channel is contributing to the maximum sales?
 8) Highest selling category?
+9} see you can learn 
